@@ -16,3 +16,4 @@ form.addEventListener('submit', (e) => {
     }
     window.location = `room.html?room=${inviteCode}`
 })
+
